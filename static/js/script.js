@@ -25,10 +25,11 @@ fbq('track', 'PageView');
 ========================= */
 function addLine(){
   fbq('track', 'Contact', { channel: 'line' });
-  window.open("https://line.me/ti/p/~zv56", "_blank");
+  window.open(" https://deadss.com/j/uVKsUKL9", "_blank");
 }
 
 function addTg(){
   fbq('track', 'Contact', { channel: 'telegram' });
   window.open("https://deadss.com/j/lfstGz9t", "_blank");
 }
+
